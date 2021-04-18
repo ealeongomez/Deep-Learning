@@ -1,5 +1,8 @@
 # Deep-Learning
 
+- Pytorch (PyT)
+- TensorFlow (TF)
+
 1. Neural Network Dense (NND)
 
 2. Convolution Neural Network (CNN)
