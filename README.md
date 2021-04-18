@@ -13,6 +13,7 @@ TensorFlow (TF)
   - LeNet
 
 3. Recurrent Neural Network (RNN)
+  - RNN Simple
   - GRU
   - LSTM
   - Bi-direction
